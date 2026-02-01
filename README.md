@@ -1,4 +1,4 @@
-<h1 align="center">Hellooo, I'm Avneesh Yadav</h1>
+<h1 align="center">Hellooo, I'm Avneesh</h1>
 <h3 align="center">AI-ML Enthusiast from Delhi</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avneeshyadav02" alt="avneeshyadav02" /></a> </p>
