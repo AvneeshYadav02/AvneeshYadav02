@@ -1,5 +1,5 @@
 # About Me:
-Engineering student passionate about building tools that solve real problems.<br>Pursuing B.Tech in CSE with a focus on Artificial Intelligence and Machine Learning.Currently learning more in depth on Deep Learning and  building a Neural Netwrok from Scartch.
+Engineering student passionate about building tools that solve real problems.<br>Pursuing B.Tech in CSE with a focus on Artificial Intelligence and Machine Learning.Currently learning more in depth on Machine Learning & Deep learning and building a personal portfolio website.
 
 
 ## Socials:
